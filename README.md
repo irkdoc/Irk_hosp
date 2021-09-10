@@ -1,5 +1,5 @@
 # Irk_hosp
-The cases of hospitalisations of patients with covid-19 sars-coc-2 in Irkutsk and Buryatia region
+The cases of hospitalisations of patients with covid-19 sars-cov-2 in Irkutsk and Buryatia region
 
 # Example Binder with requirements.txt
 
